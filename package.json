@@ -8,7 +8,7 @@
     "start": "electron ."
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/aryanratra/360-VR-Viewer.git"
   },
   "author": "Aryan Ratra",
